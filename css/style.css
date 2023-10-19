@@ -277,7 +277,7 @@ header {
 	display: block;
 	position: relative;
 	z-index: 999;
-	padding-bottom: 105px;
+	padding-bottom: 50px;
 }
 
 header a:hover {
