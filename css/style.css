@@ -270,13 +270,9 @@ a.link-1:hover {
 }
 
 
-
-/*header*/
-
 header {
 	display: block;
 	position: relative;
-	z-index: 999;
 	padding-bottom: 50px;
 }
 
